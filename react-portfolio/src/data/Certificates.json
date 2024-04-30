@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Flutter",
+      "imageSrc": "Certificates/flutter.png"
+      
+    },
+    {
+      "title": "React JS",
+      "imageSrc": "Certificates/reactjs.png"
+      
+    },
+    {
+      "title": "Java",
+      "imageSrc": "Certificates/java programming.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "Certificates/python.png"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "Certificates/html.png"
+    }
+
+  ]

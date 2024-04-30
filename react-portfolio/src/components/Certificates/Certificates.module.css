@@ -1,0 +1,49 @@
+.container{
+    color: var(--color-text);
+    margin-top: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.content img {
+    box-shadow: 10px 0 20px rgb(0, 221, 255); /* Add green shadow */
+  }
+  
+
+.title{
+    color:var(--color-text);
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.content img:hover{
+    cursor: pointer;
+  transform: scale(1.1);
+}
+
+.content{
+   
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+   /* Center items horizontally */
+   justify-content: center;
+    
+    gap: 55px;
+    
+}
+
+.certificateImage {
+    max-width: 450px; 
+    max-height: 450px; /* Set the maximum height */
+    /* You can adjust these values according to your requirements */
+  }
+  
+
+
+    
+  
+  
